@@ -60,9 +60,9 @@ Após selecionar o arquivo, o campo de arquivo inserido é atualizado.
 
 Ao clicar em `Remover`, se houver um arquivo selecionado, o programa vai removê-lo, deixando o campo vazio.
 
-![Remoção de arquivo](assets/tutorial/file_removal_01.png)
+![Remoção de arquivo](assets/tutorial/file_removal.png)
 
-![Interface sem arquivos selecionados](assets/tutorial/file_removal_02.png)
+![Interface sem arquivos selecionados](assets/tutorial/ui.png)
 
 #### 2.3.2 Demais Recursos
 
