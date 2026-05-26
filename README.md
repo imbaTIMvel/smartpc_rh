@@ -40,7 +40,7 @@ Feito isso, clique no arquivo `.exe` para abrir o programa.
 
 ![Interface do programa](assets/tutorial/ui.png)
 
-#### 2.3.1 Campos de Arquivos
+#### 2.3.1 Campo de Arquivo
 
 O programa possui um único campo para a inserção do arquivo (planilha Excel) de entrada. No caso:
 
