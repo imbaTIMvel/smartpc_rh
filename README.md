@@ -44,9 +44,9 @@ Feito isso, clique no arquivo `.exe` para abrir o programa.
 
 O programa possui um único campo para a inserção do arquivo (planilha Excel) de entrada. No caso:
 
-| Campo         | Extensões de arquivo aceitas | Padronização do arquivo                                           | Aceita mais de um arquivo? |
-| ------------- | ---------------------------- | ----------------------------------------------------------------- | -------------------------- |
-| Relatório     | .xlsx                        | Relatório de Pagamentos e/ou Recebimentos, retirados do Octalink  | Não                        |
+| Campo         | Extensões de arquivo aceitas   | Padronização do arquivo                                           | Aceita mais de um arquivo? |
+| ------------- | ------------------------------ | ----------------------------------------------------------------- | -------------------------- |
+| Relatório     | `.xlsx`                        | Relatório de Pagamentos e/ou Recebimentos, retirados do Octalink  | Não                        |
 
 Para este campo, há dois botões: `Selecionar` e `Remover`. Ao clicar em `Selecionar`, o programa abre um diálogo do *Explorador de Arquivos*, permitindo que o usuário selecione o arquivo Excel que deseja inserir.
 
@@ -113,9 +113,9 @@ Para fazer o download desta versão, clique [aqui](https://github.com/imbaTIMvel
 
 **Features:**
 - Compatível com planilhas Excel, do tipo:
-  - `Relatório`: Relatório de Pagamentos ou de Recebimentos, conforme exportados pelo Octalink, no formato .xlsx;
+  - `Relatório`: Relatório de Pagamentos ou de Recebimentos, conforme exportados pelo Octalink, no formato `.xlsx`;
 - Lê os dados do Relatório e os organiza em uma nova planilha com duas abas: `Folha de Rosto` e `Detalhamento`, conforme o padrão utilizado pelo setor de RH (ver [template](assets/template/template.xlsx)).
-- Permite que o usuário escolha o diretório de salvamento para a planilha (.xlsx) de saída.
+- Permite que o usuário escolha o diretório de salvamento para a planilha (`.xlsx`) de saída.
 
 Clique [aqui](https://github.com/imbaTIMvel/smartpc_rh/releases) para acessar o **changelog completo**.
 
